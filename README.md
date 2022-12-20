@@ -7,7 +7,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 ### 📋 Pré-requisitos
 
-Para rodar este software na sua maquina terá que instalar o netbeans e ter o MySQL configurado na sua maquina;
+Para rodar este software na sua maquina terá que instalar o netbeans e ter o JDK configurado na sua maquina;
 
 
 ### 🔧 Instalação
